@@ -10,6 +10,7 @@ The stages of machine learning that were relevant to this analysis are listed be
 2. Model creation: creating a logistic regression model using the inital data
 3. Predicting: after fitting the model using the training data, it is used to make predictions.
 4. Evaluating: the performance of the model is assessed based on its ability to predict. It is assessed against the test values. The following scores are used as part of this evaluation: accuracy, precision and recall.  
+
 This assessment utilises the logisitic regression method.
 
 ## Results
