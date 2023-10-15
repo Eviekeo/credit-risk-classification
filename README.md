@@ -4,12 +4,13 @@
 
 The purpose of the analysis was to assess the performance of the logistic regression model in respect to predicting whether the credit risk of a loan (i.e. healthy or high-risk). 
 The data was based on the following financial information; loan size, interest rate, borrower income, total debt, number of accounts held, derogatory marks and debt to income ratio. As part of the assessment, we were required to predict the credit risk of the particular loan, that is whether it was healthy (0) or a high risk (1) loan.  
-        The stages of machine learning that were relevant to this analysis are listed below:
-        1. Data splitting: splitting the data into testing and training datasets
-        2. Model creation: creating a logistic regression model using the inital data
-        3. Predicting: after fitting the model using the training data, it is used to make predictions.
-        4. Evaluating: the performance of the model is assessed based on its ability to predict. It is assessed against the test values. The following scores are used as part of this evaluation: accuracy, precision and recall.  
-        This assessment utilises the logisitic regression method.
+
+The stages of machine learning that were relevant to this analysis are listed below:
+1. Data splitting: splitting the data into testing and training datasets
+2. Model creation: creating a logistic regression model using the inital data
+3. Predicting: after fitting the model using the training data, it is used to make predictions.
+4. Evaluating: the performance of the model is assessed based on its ability to predict. It is assessed against the test values. The following scores are used as part of this evaluation: accuracy, precision and recall.  
+This assessment utilises the logisitic regression method.
 
 ## Results
 - Accuracy: the model achieved an overall accuracy score of 0.99 which indicates that the model was able to correctly classify 99% of cases. 
